@@ -51,7 +51,7 @@ end
 
 def all_holidays_with_bbq(holiday_hash)
   array = []
-  
+  holiday_hash.each do |
 
 end
 
